@@ -1,8 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import IntroSection from './Component/LandingPage/IntroSection';
+import Navbar from './Component/LandingPage/Navbar';
 
 function App() {
   return (
+<<<<<<< HEAD
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
@@ -17,6 +19,12 @@ function App() {
         </a>
       </header>
     </div>
+=======
+    <>
+      <Navbar />
+      <IntroSection/>
+    </>
+>>>>>>> 671f90db9c1a375c6bac78ec64000def2fe774bc
   );
 }
 
