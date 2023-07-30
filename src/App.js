@@ -7,6 +7,7 @@ function App() {
     <>
       <Navbar />
       <IntroSection/>
+      <h1></h1>
     </>
   );
 }
