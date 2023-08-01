@@ -18,7 +18,7 @@ const Testimonial = () => {
                     <div className="col-6 col-md-4">
                         <a href="https://www.mahlatini.com/south-africa/cape-town" className="image-grid__card">
                             <figure> 
-                                <div className="nooverflow h-96 w-96">
+                                <div className="nooverflow h-96 w-96 mb-16">
                                     <picture><source type="image/webp" srcset="https://cdn.mahlatini.com/_900x1080_crop_center%20center_100_none/176173/iconic-destination-cape-town-card.webp" media="(min-width: 768px)"/>
                                         <source type="image/jpg" srcset="https://cdn.mahlatini.cfoom/_900x1080_crop_center%20center_100_none/iconic-destination-cape-town-card.jpg" media="(min-width: 768px)"/>
                                         <source type="image/webp" srcset="https://cdn.mahlatini.com/_302x362_crop_center%20center_100_none/176173/iconic-destination-cape-town-card.webp" media="(min-width: 1px)"/>
