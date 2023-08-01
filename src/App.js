@@ -5,11 +5,12 @@ import Testimonial from "./Component/Testimonial";
 function App() {
     return ( 
         <>
-         {/* <Navbar/>
-        <IntroSection/> */}
+          <Navbar/>
+        <IntroSection/>
         <Testimonial/>
         </>
     );
+
 }
 
 export default App;
