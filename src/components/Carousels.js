@@ -2,7 +2,7 @@ import Carousel from 'react-bootstrap/Carousel';
 import bg1 from "../assets/carouselsbg1.png"
 import bg2 from "../assets/carouselsbg2.jpg"
 import bg3 from "../assets/carouselsbg3.jpeg"
-function carousels() {
+function Carousels() {
   return (
     <Carousel data-bs-theme="dark" className='p-[20px]' interval={2000}>
       <Carousel.Item>
@@ -44,4 +44,4 @@ function carousels() {
   );
 }
 
-export default carousels;
+export default Carousels;

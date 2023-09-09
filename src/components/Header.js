@@ -244,7 +244,7 @@ const data = [
     
 ]
 
-function header() {
+function Header() {
     return (
         <div className='flex flex-wrap justify-center gap-20 h-full w-full items-center'>
             {data.map((a)=>(
@@ -266,4 +266,4 @@ function header() {
     )
 }
 
-export default header;
+export default Header;

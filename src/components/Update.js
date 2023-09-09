@@ -1,6 +1,6 @@
 import React from 'react'
 
-const update = () => {
+const Update = () => {
   return (
     <div className=' flex justify-center items-center text-center bg-[url("./assets/bg1.jpeg")] bg-no-repeat bg-center bg-cover h-[100vh] m-0 p-0  box-border font-serif '>
     <div className="w-[400px] px-[30px] py-[10px] bg-[rgba(247,179,179,0.46)] rounded-[10px] ">
@@ -83,4 +83,4 @@ const update = () => {
   )
 }
 
-export default update
+export default Update

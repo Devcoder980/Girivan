@@ -246,7 +246,7 @@ const data = [
     }, 
     
 ]
-const deleterecord = () => {
+const Deleterecord = () => {
   return (
     <>
         <Navbar/>
@@ -272,5 +272,5 @@ const deleterecord = () => {
   )
 }
 
-export default deleterecord
+export default Deleterecord
 

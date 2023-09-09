@@ -1,6 +1,6 @@
 import React from 'react'
 
-function insert() {
+function Insert() {
   return (
     <div className='flex items-center text-center bg-[url("./assets/bg1.jpeg")] bg-no-repeat bg-center bg-cover h-[100vh] m-0 p-0 justify-center box-border font-serif '>
             <div className="w-[521px] px-[30px] py-[10px] bg-[rgba(247,179,179,0.46)] rounded-[10px] ">
@@ -90,4 +90,4 @@ function insert() {
   )
 }
 
-export default insert
+export default Insert
